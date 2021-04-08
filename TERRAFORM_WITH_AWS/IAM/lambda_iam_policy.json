@@ -1,0 +1,9 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [{
+        "Sid": "Stmt1614352942984",
+        "Action": "logs:*",
+        "Effect": "Allow",
+        "Resource": "*"
+    }]
+}
